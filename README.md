@@ -1,7 +1,7 @@
 everwatch
 =========
 
-Script to integrate [Marked.app](http://markedapp.com]) and [Evernote](http://www.evernote.com).
+Script to integrate [Marked.app](http://markedapp.com) and [Evernote](http://www.evernote.com).
 
 Modded from original script by [Brett Terpstra](http://brettterpstra.com/2011/11/14/marked-scripts-nvalt-evernote-marsedit-scrivener/) which is included in the [Marked Bonus Pack](http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles).
 
